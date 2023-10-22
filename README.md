@@ -3,9 +3,9 @@
 Автор проекта: Бубырь Е. В.
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Balantre/New_octopus/blob/main/project_6/README.md#описание-проекта-)   
-[3. Краткая информация о данных](https://github.com/Balantre/New_octopus/blob/main/project_6/README.md#Краткая-информация-о-данных)      
-[6. Выводы](https://github.com/Balantre/New_octopus/blob/main/project_6/README.md#Выводы) 
+[1. Описание проекта](https://github.com/Balantre/DS_Diplom/blob/main/README.md#описание-проекта-)   
+[2. Краткая информация о данных](https://github.com/Balantre/DS_Diplom/blob/main/README.md#Краткая-информация-о-данных)      
+[3. Выводы](hhttps://github.com/Balantre/DS_Diplom/blob/main/README.md#Выводы) 
 
 ### **Описание проекта**   
 **Цель проекта** - Спрогнозировать потребление электроэнергии США, используя более точную модель. Узнать о прогнозировании временных рядов путем анализа потребления энергии в Соединенных Штатах в период с 2015 по 2019 год.
@@ -30,7 +30,7 @@
 
 5. Выводы 
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_6/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/DS_Diplom/blob/main/README.md#оглавление)
 
 
 ### **Краткая информация о данных**
@@ -38,7 +38,7 @@
 2. Колличество потребелнной электроэнергии
 
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_6/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/DS_Diplom/blob/main/README.md#оглавление)
 
 
 
@@ -72,7 +72,7 @@
    * Средняя абсолютная ошибка MAE: 14.50
    * Cредняя абсолютная ошибка в процентах MAPE: 62908.35600470739
 
-:arrow_up:[к оглавлению](https://github.com/Balantre/New_octopus/blob/main/project_6/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Balantre/DS_Diplom/blob/main/README.md#оглавление)
 
 [Ноутбук с выполненными заданиями и выводами](https://github.com/Balantre/DS_Diplom/blob/f7bfd03c9e0f8032de333539fbfc077d5921fc93/DSSF.ipynb)
 
