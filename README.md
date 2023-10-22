@@ -5,7 +5,7 @@
 ## Оглавление  
 [1. Описание проекта](https://github.com/Balantre/DS_Diplom/blob/main/README.md#описание-проекта-)   
 [2. Краткая информация о данных](https://github.com/Balantre/DS_Diplom/blob/main/README.md#Краткая-информация-о-данных)      
-[3. Выводы](hhttps://github.com/Balantre/DS_Diplom/blob/main/README.md#Выводы) 
+[3. Выводы](https://github.com/Balantre/DS_Diplom/blob/main/README.md#Выводы) 
 
 ### **Описание проекта**   
 **Цель проекта** - Спрогнозировать потребление электроэнергии США, используя более точную модель. Узнать о прогнозировании временных рядов путем анализа потребления энергии в Соединенных Штатах в период с 2015 по 2019 год.
